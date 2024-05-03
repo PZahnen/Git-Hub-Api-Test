@@ -1,1 +1,2 @@
-version = '3.5.2'version = '3.5.2 + versionSuffix
+
+version = '4.0.0' + versionSuffix
