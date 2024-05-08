@@ -1,6 +1,5 @@
 [versions]
-xtraplatform = '5.4.3'
-ldproxy = '3.6.2'
+dependency = '2.6.3'
 antlr = '4.7.2'
 xsom = '20140925'
 aalto = '1.3.1'
