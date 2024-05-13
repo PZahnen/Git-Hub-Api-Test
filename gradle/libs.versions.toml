@@ -1,5 +1,5 @@
 [versions]
-dependency = 'v6.0.0'
+dependency = 'v7.0.0'
 antlr = '4.7.2'
 xsom = '20140925'
 aalto = '1.3.1'
