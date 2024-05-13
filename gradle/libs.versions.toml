@@ -1,5 +1,5 @@
 [versions]
-dependency = 'v.1.0'
+dependency = '11.0.0'
 dependency2 = 'v.1.0'
 antlr = '4.7.2'
 xsom = '20140925'
