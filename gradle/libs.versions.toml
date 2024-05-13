@@ -1,6 +1,6 @@
 [versions]
-dependency = 'v3.0.0'
-dependency2 = 'vNaN.0.0'
+dependency = '3.0.0'
+dependency2 = '1.0.0'
 antlr = '4.7.2'
 xsom = '20140925'
 aalto = '1.3.1'
