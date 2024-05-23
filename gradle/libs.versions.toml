@@ -1,5 +1,5 @@
 [versions]
-dependency = '13.9.0'
+dependency = '13.9.1'
 dependency-numbertwo = '3.9.0'
 antlr = '4.7.2'
 xsom = '20140925'
