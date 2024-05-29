@@ -1,6 +1,6 @@
 [versions]
 dependency = '13.20.7'
-dependency-numbertwo = '3.20.6'
+dependency-numbertwo = '3.20.7'
 antlr = '4.7.2'
 xsom = '20140925'
 aalto = '1.3.1'
